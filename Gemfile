@@ -10,6 +10,10 @@ end
 gem 'rails', '~> 5.0.2'
 gem 'bcrypt'
 gem 'bootstrap-sass'
+gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
+ 
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
